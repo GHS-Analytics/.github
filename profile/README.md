@@ -1,5 +1,5 @@
-# Welcome to the Enterprise Analytics Owners Manual
-Your home for analytics source code across the organization.
+# Enterprise Analytics Owners Manual
+Your guide for using gitHub as a repository of all analytics source code across the organization.
 ### Power BI Reports (in PBIP format)
 
 
