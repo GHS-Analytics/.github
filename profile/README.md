@@ -1,6 +1,5 @@
-## Welcome to Enterprise Analytics
+# Welcome to the Enterprise Analytics Owners Manual
 Your home for analytics source code across the organization.
-## Owners Manual
 ### Power BI Reports (in PBIP format)
 
 
